@@ -1,4 +1,7 @@
-# OpenGL Engine Test
+# OpenGL Engine Test **(Old static version)**
+
+**This project has moved to github: https://github.com/ThomasRinsma/opengl-game-test**
+
 This is just a pet project of mine. The goal is some sort of
 all-in-one first-person fancy-lighting 3D engine. Although
 it's more of a learning project.
